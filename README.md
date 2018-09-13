@@ -1,10 +1,10 @@
-# Project Description
+# Learning Python Data Model (Python Class dunder __xx__ method) from Youtube
 
 > Fill in ...
 
 ## Install/Configure/Deploy
 
-`>npm`
+`n/a`
 
 ## Resources/Dependencies
 
@@ -12,7 +12,8 @@
 
 ## What I Learned
 
-* XXX
+* Pythnon Class
+* double underscore ("dunder" method)
 
 ## Contact Me (Code Advocate)
 
@@ -26,5 +27,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* [Originator's Youtube]()
-* []()
+* [Originator's Youtube](https://www.youtube.com/watch?v=ZYdCDUfnVtk)
